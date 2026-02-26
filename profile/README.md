@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-On the mission of building the **Stellar Passport**: a reusable, unified identity layer for the Stellar ecosystem. 🏆
+On the mission of building the **Stellar Passport**: a reusable, unified identity layer for the Stellar ecosystem. 
 Built during HackMeridian 2025
 
 ---
